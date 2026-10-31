@@ -1,6 +1,6 @@
 # Vivarium: Ado & Me - English Translation
 
-A work-in-progress, full-length English translation of Ado's autobiographical novel, *Vivarium: Ado & Me* (ビバリウム Adoと私).
+A work-in-progress, full-length English translation of Ado's autobiography, *Vivarium: Ado & Me* (ビバリウム Adoと私).
 
 ---
 
