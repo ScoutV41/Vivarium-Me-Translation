@@ -1,8 +1,23 @@
-# Vivarium-Me-Translation
-A work in progress full translation of Ado's book, Vivarium: Ado &amp; me!
+# Vivarium: Ado & Me - English Translation
 
-Currently translated work (as of 9/21/26) Introduction + Ch 1/2 (In both PDF and Epub)
+A work-in-progress, full-length English translation of Ado's autobiographical novel, *Vivarium: Ado & Me* (ビバリウム Adoと私).
 
-New addition: (10/11/26) Chapter 3 (In both PDF and Epub)
+---
 
-New Addition: (10/15/26) Chapter 4 (In both PDF and Epub)
+### Status & Completed Chapters
+*Available in both **PDF** and **EPUB** formats under Releases/Files:*
+
+- **Introduction + Chapters 1 & 2** - *(Completed 09/21/2026)*
+- **Chapter 3** - *(Added 10/11/2026)*
+- **Chapter 4** - *(Added 10/15/2026)*
+
+---
+
+### Works in Progress & Estimated Timeline
+*Note: Schedules are estimates and subject to change!*
+
+- **Chapter 5:** In progress *(Target release: Mon/Tue)*
+- **Chapter 6:** Early November
+- **Chapter 7:** Early-Mid November
+- **Chapter 8 (Final Chapter!!!):** Mid-Late November
+- **Full Compiled Release (Single File):** Late November
