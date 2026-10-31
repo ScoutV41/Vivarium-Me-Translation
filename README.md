@@ -5,7 +5,7 @@ A work-in-progress, full-length English translation of Ado's autobiographical no
 ---
 
 ### Status & Completed Chapters
-*Available in both **PDF** and **EPUB** formats under Releases/Files:*
+*Available in both **PDF** and **EPUB** formats:*
 
 - **Introduction + Chapters 1 & 2** - *(Completed 09/21/2026)*
 - **Chapter 3** - *(Added 10/11/2026)*
