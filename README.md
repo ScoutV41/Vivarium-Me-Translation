@@ -16,7 +16,7 @@ A work-in-progress, full-length English translation of Ado's autobiography, *Viv
 ### Works in Progress & Estimated Timeline
 *Note: Schedules are estimates and subject to change!*
 
-- **Chapter 5:** In progress *(Target release: Mon/Tue)*
+- **Chapter 5:** In progress *(Target release: Mon/Tue)* - Pushed back to Thursday
 - **Chapter 6:** Early November
 - **Chapter 7:** Early-Mid November
 - **Chapter 8 (Final Chapter!!!):** Mid-Late November
