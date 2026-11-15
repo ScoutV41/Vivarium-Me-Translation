@@ -7,7 +7,7 @@
 > * **Europe & Worldwide:** [Black Screen Records](https://blackscreenrecords.com/products/vivarium-ado-to-watashi-book)
 > * **Worldwide (Ships from Japan):** [JumpIchiban](https://jumpichiban.com/en-us/products/ado-series-art-book-vivarium-ado-and-i-release-feb-26-2026)
 > 
-> *Note: All official physical editions are in Japanese. This repository will never be monetized or paywalled.*
+> *Note: All official physical editions are in Japanese (ISBN: 9784048976602). This repository will never be monetized or paywalled.*
 
 
 # Vivarium: Ado & Me - English Translation
